@@ -1,0 +1,5 @@
+Error bij het checken met wincpy check:
+
+unhashable type list. 
+
+removing whitespaces bij het einde van string met str.strip(chant) werkt niet?
